@@ -14,7 +14,8 @@ setup (
                           "MySQL-python>=1.2.5",
                           "packaging>=16.8",
                           "pyparsing>=2.1.10",
-                          "six>=1.10.0"],
+                          "six>=1.10.0",
+                          "uwsgi>=2.0"],
   extras_require        = {
                             "test": [
                               "colorama>=0.3.7",
